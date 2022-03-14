@@ -23,4 +23,7 @@ Power bi \n
 Python Flask
 
 ### Gallary
+<p align="center">
+  <img src="dashboard.jpg" width="350">
+</p>
 ![dashboard](dashboard.jpg)
