@@ -9,17 +9,17 @@ developing a decision support system made up of fully automated business intelli
 machine leaning predictions(Sales demand forecast).
 
 ### Deliverables
->Data warehouse
->Dashboard
->Time-Series Model
->Web app
+Data warehouse
+Dashboard
+Time-Series Model
+Web app
 
 ### Data Source
 Kaggle dataset. Can be accessed at https://www.kaggle.com/c/store-sales-time-series-forecasting/data
 
 ### Tools
-SQL Server
-Power bi
+SQL Server \n
+Power bi \n
 Python Flask
 
 ### Gallary
